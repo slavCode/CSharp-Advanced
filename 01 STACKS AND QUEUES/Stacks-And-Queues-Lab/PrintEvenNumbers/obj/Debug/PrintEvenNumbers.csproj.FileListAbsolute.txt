@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\bin\Debug\PrintEvenNumbers.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\bin\Debug\PrintEvenNumbers.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\bin\Debug\PrintEvenNumbers.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.pdb

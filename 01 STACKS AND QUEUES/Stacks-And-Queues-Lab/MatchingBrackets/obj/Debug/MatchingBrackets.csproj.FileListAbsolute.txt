@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\bin\Debug\MatchingBrackets.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\bin\Debug\MatchingBrackets.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\obj\Debug\MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\obj\Debug\MatchingBrackets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\obj\Debug\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\obj\Debug\MatchingBrackets.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\MatchingBrackets\obj\Debug\MatchingBrackets.pdb

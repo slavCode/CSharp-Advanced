@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\obj\Debug\Supermarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\Supermarket\obj\Debug\Supermarket.pdb

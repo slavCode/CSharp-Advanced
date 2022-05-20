@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\bin\Debug\WorkingWithStacks.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\bin\Debug\WorkingWithStacks.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\bin\Debug\WorkingWithStacks.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\obj\Debug\WorkingWithStacks.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\obj\Debug\WorkingWithStacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\obj\Debug\WorkingWithStacks.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\obj\Debug\WorkingWithStacks.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\WorkingWithStacks\obj\Debug\WorkingWithStacks.pdb

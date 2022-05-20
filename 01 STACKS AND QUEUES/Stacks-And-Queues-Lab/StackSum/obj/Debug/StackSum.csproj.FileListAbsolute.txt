@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\bin\Debug\StackSum.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\bin\Debug\StackSum.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\bin\Debug\StackSum.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\obj\Debug\StackSum.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\obj\Debug\StackSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\obj\Debug\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\obj\Debug\StackSum.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\Advanced\1 STACKS AND QUEUES\Stacks-And-Queues\StackSum\obj\Debug\StackSum.pdb
