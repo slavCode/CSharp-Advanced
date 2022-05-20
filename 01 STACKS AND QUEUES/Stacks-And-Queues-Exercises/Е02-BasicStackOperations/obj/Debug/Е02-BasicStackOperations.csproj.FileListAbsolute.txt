@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\bin\Debug\Е02-BasicStackOperations.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\bin\Debug\Е02-BasicStackOperations.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\bin\Debug\Е02-BasicStackOperations.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\obj\Debug\Е02-BasicStackOperations.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\obj\Debug\Е02-BasicStackOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\obj\Debug\Е02-BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\obj\Debug\Е02-BasicStackOperations.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\Е02-BasicStackOperations\obj\Debug\Е02-BasicStackOperations.pdb
