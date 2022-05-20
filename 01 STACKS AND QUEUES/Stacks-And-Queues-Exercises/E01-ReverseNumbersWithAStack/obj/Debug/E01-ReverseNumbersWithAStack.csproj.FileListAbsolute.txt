@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\bin\Debug\E01-ReverseNumbersWithAStack.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\bin\Debug\E01-ReverseNumbersWithAStack.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\bin\Debug\E01-ReverseNumbersWithAStack.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\obj\Debug\E01-ReverseNumbersWithAStack.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\obj\Debug\E01-ReverseNumbersWithAStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\obj\Debug\E01-ReverseNumbersWithAStack.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\obj\Debug\E01-ReverseNumbersWithAStack.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E01-ReverseNumbersWithAStack\obj\Debug\E01-ReverseNumbersWithAStack.pdb
