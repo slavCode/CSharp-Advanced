@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Е02_BasicStackOperations
 {
-    internal class BasicStackOperations
+    class BasicStackOperations
     {
         static void Main()
         {
