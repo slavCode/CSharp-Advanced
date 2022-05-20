@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStacks", "WorkingWithStacks\WorkingWithStacks.csproj", "{51162B5A-C6C6-47E9-9516-0FA62E4FB3C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{A3786DD5-FBDF-46E4-8240-DC3D8510DD4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E02-SimpleCalculator", "SimpleCalculator\E02-SimpleCalculator.csproj", "{A3786DD5-FBDF-46E4-8240-DC3D8510DD4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinaryConverter", "DecimalToBinaryConverter\DecimalToBinaryConverter.csproj", "{7C5F9F65-EDF4-4E5A-89F9-8218F991A61B}"
 EndProject
