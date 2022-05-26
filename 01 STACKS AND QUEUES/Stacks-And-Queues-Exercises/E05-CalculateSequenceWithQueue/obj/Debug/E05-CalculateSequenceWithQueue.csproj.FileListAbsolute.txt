@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\bin\Debug\E05-CalculateSequenceWithQueue.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\bin\Debug\E05-CalculateSequenceWithQueue.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\bin\Debug\E05-CalculateSequenceWithQueue.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\obj\Debug\E05-CalculateSequenceWithQueue.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\obj\Debug\E05-CalculateSequenceWithQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\obj\Debug\E05-CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\obj\Debug\E05-CalculateSequenceWithQueue.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E05-CalculateSequenceWithQueue\obj\Debug\E05-CalculateSequenceWithQueue.pdb
