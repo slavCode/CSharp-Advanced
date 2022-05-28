@@ -1,0 +1,16 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\bin\Debug\E07-BalancedParentheses.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\bin\Debug\E07-BalancedParentheses.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\bin\Debug\E07-BalancedParentheses.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\bin\Debug\E07-BalancedParentheses.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\bin\Debug\E07-BalancedParentheses.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\bin\Debug\E07-BalancedParentheses.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E07-BalancedParentheses\obj\Debug\E07-BalancedParentheses.pdb
