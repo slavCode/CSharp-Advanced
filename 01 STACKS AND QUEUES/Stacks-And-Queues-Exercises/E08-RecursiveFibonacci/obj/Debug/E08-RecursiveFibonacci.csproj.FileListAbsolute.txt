@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\bin\Debug\E08-RecursiveFibonacci.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\bin\Debug\E08-RecursiveFibonacci.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\bin\Debug\E08-RecursiveFibonacci.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\obj\Debug\E08-RecursiveFibonacci.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\obj\Debug\E08-RecursiveFibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\obj\Debug\E08-RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\obj\Debug\E08-RecursiveFibonacci.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E08-RecursiveFibonacci\obj\Debug\E08-RecursiveFibonacci.pdb
