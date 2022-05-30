@@ -4,7 +4,7 @@ using System.Text;
 
 namespace E10_SimpleTextEditor
 {
-    internal class SimpleTextEditor
+    class SimpleTextEditor
     {
         static void Main()
         {

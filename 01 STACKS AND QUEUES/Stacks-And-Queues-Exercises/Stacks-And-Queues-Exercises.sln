@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E09-StackFibonacci", "E09-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E10-SimpleTextEditor", "E10-SimpleTextEditor\E10-SimpleTextEditor.csproj", "{370D7FF4-9584-463D-9D00-22233392CF69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E11-Crossroads", "E11-Crossroads\E11-Crossroads.csproj", "{042E7E76-B277-4B07-BCD1-BF8C92420B58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{370D7FF4-9584-463D-9D00-22233392CF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370D7FF4-9584-463D-9D00-22233392CF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370D7FF4-9584-463D-9D00-22233392CF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E7E76-B277-4B07-BCD1-BF8C92420B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042E7E76-B277-4B07-BCD1-BF8C92420B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042E7E76-B277-4B07-BCD1-BF8C92420B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042E7E76-B277-4B07-BCD1-BF8C92420B58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
