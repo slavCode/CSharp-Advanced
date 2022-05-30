@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace E06_TruckTour
 {
-    internal class TruckTour
+    class TruckTour
     {
         static void Main()
         {

@@ -5,7 +5,7 @@ namespace E08_RecursiveFibonacci
     class RecursiveFibonacci
     {
         private static long[] fibonacchiNumbers;
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             fibonacchiNumbers = new long[n];

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace E07_BalancedParentheses
 {
-    internal class BalancedParentheses
+    class BalancedParentheses
     {
         static void Main()
         {

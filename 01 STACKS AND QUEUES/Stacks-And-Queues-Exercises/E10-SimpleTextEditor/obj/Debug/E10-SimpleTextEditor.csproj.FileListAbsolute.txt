@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\bin\Debug\E10-SimpleTextEditor.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\bin\Debug\E10-SimpleTextEditor.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\bin\Debug\E10-SimpleTextEditor.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\obj\Debug\E10-SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\obj\Debug\E10-SimpleTextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\obj\Debug\E10-SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\obj\Debug\E10-SimpleTextEditor.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E10-SimpleTextEditor\obj\Debug\E10-SimpleTextEditor.pdb

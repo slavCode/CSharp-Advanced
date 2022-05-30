@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\bin\Debug\E09-StackFibonacci.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\bin\Debug\E09-StackFibonacci.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\bin\Debug\E09-StackFibonacci.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\obj\Debug\E09-StackFibonacci.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\obj\Debug\E09-StackFibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\obj\Debug\E09-StackFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\obj\Debug\E09-StackFibonacci.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E09-StackFibonacci\obj\Debug\E09-StackFibonacci.pdb
