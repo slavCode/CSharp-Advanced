@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\bin\Debug\E13-CupsAndBottles.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\bin\Debug\E13-CupsAndBottles.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\bin\Debug\E13-CupsAndBottles.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\obj\Debug\E13-CupsAndBottles.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\obj\Debug\E13-CupsAndBottles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\obj\Debug\E13-CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\obj\Debug\E13-CupsAndBottles.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E13-CupsAndBottles\obj\Debug\E13-CupsAndBottles.pdb
