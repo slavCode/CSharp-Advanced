@@ -1,0 +1,16 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\bin\Debug\E12-KeyRevolver.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\bin\Debug\E12-KeyRevolver.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\bin\Debug\E12-KeyRevolver.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\bin\Debug\E12-KeyRevolver.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\bin\Debug\E12-KeyRevolver.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\bin\Debug\E12-KeyRevolver.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\01 STACKS AND QUEUES\Stacks-And-Queues-Exercises\E12-KeyRevolver\obj\Debug\E12-KeyRevolver.pdb
