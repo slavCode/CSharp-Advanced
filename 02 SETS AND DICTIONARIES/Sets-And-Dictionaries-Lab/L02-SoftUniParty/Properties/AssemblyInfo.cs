@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("E01-ParkingLot")]
+[assembly: AssemblyTitle("L02-SoftUniParty")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("E01-ParkingLot")]
+[assembly: AssemblyProduct("L02-SoftUniParty")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("268342f2-efc8-42e8-8d84-8661e315cdec")]
+[assembly: Guid("a5311e32-1309-4e68-95e1-e05ff05572a0")]
 
 // Version information for an assembly consists of the following four values:
 //

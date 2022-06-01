@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\bin\Debug\L02-SoftUniParty.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\bin\Debug\L02-SoftUniParty.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\bin\Debug\L02-SoftUniParty.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\obj\Debug\L02-SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\obj\Debug\L02-SoftUniParty.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\obj\Debug\L02-SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\obj\Debug\L02-SoftUniParty.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L02-SoftUniParty\obj\Debug\L02-SoftUniParty.pdb

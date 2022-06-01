@@ -1,8 +1,0 @@
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\bin\Debug\E01-ParkingLot.exe.config
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\bin\Debug\E01-ParkingLot.exe
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\bin\Debug\E01-ParkingLot.pdb
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\obj\Debug\E01-ParkingLot.csproj.AssemblyReference.cache
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\obj\Debug\E01-ParkingLot.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\obj\Debug\E01-ParkingLot.csproj.CoreCompileInputs.cache
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\obj\Debug\E01-ParkingLot.exe
-C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\E01-ParkingLot\obj\Debug\E01-ParkingLot.pdb

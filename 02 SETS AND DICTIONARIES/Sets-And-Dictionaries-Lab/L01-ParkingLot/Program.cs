@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-internal class ParkingLot
+public class ParkingLot
 {
     public static void Main()
     {
@@ -37,4 +37,5 @@ internal class ParkingLot
         }
     }
 }
+
 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{268342F2-EFC8-42E8-8D84-8661E315CDEC}</ProjectGuid>
+    <ProjectGuid>{E872E00B-B98D-4391-A80A-C53BF5D8CA1C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>E01_ParkingLot</RootNamespace>
-    <AssemblyName>E01-ParkingLot</AssemblyName>
+    <RootNamespace>L01_ParkingLot</RootNamespace>
+    <AssemblyName>L01-ParkingLot</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ParkingLot.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
