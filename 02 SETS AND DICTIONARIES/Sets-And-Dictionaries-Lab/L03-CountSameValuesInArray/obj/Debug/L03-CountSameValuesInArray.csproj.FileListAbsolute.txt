@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\bin\Debug\L03-CountSameValuesInArray.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\bin\Debug\L03-CountSameValuesInArray.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\bin\Debug\L03-CountSameValuesInArray.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\obj\Debug\L03-CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\obj\Debug\L03-CountSameValuesInArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\obj\Debug\L03-CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\obj\Debug\L03-CountSameValuesInArray.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Lab\L03-CountSameValuesInArray\obj\Debug\L03-CountSameValuesInArray.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02-SoftUniParty", "L02-Sof
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01-ParkingLot", "L01-ParkingLot\L01-ParkingLot.csproj", "{E872E00B-B98D-4391-A80A-C53BF5D8CA1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03-CountSameValuesInArray", "L03-CountSameValuesInArray\L03-CountSameValuesInArray.csproj", "{AB35F109-8E4A-44B0-9B89-993C2C03655E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E872E00B-B98D-4391-A80A-C53BF5D8CA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E872E00B-B98D-4391-A80A-C53BF5D8CA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E872E00B-B98D-4391-A80A-C53BF5D8CA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB35F109-8E4A-44B0-9B89-993C2C03655E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB35F109-8E4A-44B0-9B89-993C2C03655E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB35F109-8E4A-44B0-9B89-993C2C03655E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB35F109-8E4A-44B0-9B89-993C2C03655E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
