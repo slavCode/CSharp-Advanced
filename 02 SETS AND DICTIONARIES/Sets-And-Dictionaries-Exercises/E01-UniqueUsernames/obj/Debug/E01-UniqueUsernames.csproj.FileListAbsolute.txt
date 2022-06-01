@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\bin\Debug\E01-UniqueUsernames.exe.config
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\bin\Debug\E01-UniqueUsernames.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\bin\Debug\E01-UniqueUsernames.pdb
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\obj\Debug\E01-UniqueUsernames.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\obj\Debug\E01-UniqueUsernames.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\obj\Debug\E01-UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\obj\Debug\E01-UniqueUsernames.exe
+C:\Users\User\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E01-UniqueUsernames\obj\Debug\E01-UniqueUsernames.pdb
