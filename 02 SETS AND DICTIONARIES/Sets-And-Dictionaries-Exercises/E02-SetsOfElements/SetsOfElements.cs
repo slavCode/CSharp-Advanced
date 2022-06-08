@@ -6,19 +6,22 @@ public class SetsOfElements
 {
     public static void Main()
     {
-        var numberOfUsers = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+        var numberOfUsers = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
-        HashSet<string> users = new HashSet<string>();
-        HashSet<string> result = new HashSet<string>();
-        for (int i = 0; i < numberOfUsers[0] + numberOfUsers[1]; i++)
+        HashSet<string> firstSet = new HashSet<string>();
+        HashSet<string> secondSet = new HashSet<string>();
+
+        for (int i = 0; i < numberOfUsers[0]; i++)
         {
-            string user = Console.ReadLine();
-            int currCount = users.Count;
-            users.Add(user);
-
-
-            if (users.Count == currCount) result.Add(user);
+            firstSet.Add(Console.ReadLine());
         }
-        Console.WriteLine($"{string.Join(" ", result)}");
+
+        for (int i = 0; i < numberOfUsers[1]; i++)
+        {
+            secondSet.Add(Console.ReadLine());
+        }
+
+        firstSet.IntersectWith(secondSet);
+        Console.WriteLine($"{string.Join(" ", firstSet)}");
     }
 }

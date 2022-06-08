@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\bin\Debug\E03-PeriodicTable.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\bin\Debug\E03-PeriodicTable.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\bin\Debug\E03-PeriodicTable.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\obj\Debug\E03-PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\obj\Debug\E03-PeriodicTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\obj\Debug\E03-PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\obj\Debug\E03-PeriodicTable.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E03-PeriodicTable\obj\Debug\E03-PeriodicTable.pdb
