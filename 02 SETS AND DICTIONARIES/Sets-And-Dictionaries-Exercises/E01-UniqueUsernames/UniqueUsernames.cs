@@ -15,5 +15,4 @@ public class UniqueUsernames
         }
         Console.WriteLine($"{string.Join("\n", users)}");
     }
-
 }

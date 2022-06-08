@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\bin\Debug\E02-SetsOfElements.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\bin\Debug\E02-SetsOfElements.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\bin\Debug\E02-SetsOfElements.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\obj\Debug\E02-SetsOfElements.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\obj\Debug\E02-SetsOfElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\obj\Debug\E02-SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\obj\Debug\E02-SetsOfElements.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E02-SetsOfElements\obj\Debug\E02-SetsOfElements.pdb
