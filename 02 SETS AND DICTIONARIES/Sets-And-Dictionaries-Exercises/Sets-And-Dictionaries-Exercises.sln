@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E02-SetsOfElements", "E02-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E03-PeriodicTable", "E03-PeriodicTable\E03-PeriodicTable.csproj", "{D63B8987-E138-4278-B9C2-057F95F1E621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E04-CountSymbols", "E04-CountSymbols\E04-CountSymbols.csproj", "{A026478D-C3A3-4B64-BD98-AF4BE0F9CA0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D63B8987-E138-4278-B9C2-057F95F1E621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D63B8987-E138-4278-B9C2-057F95F1E621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D63B8987-E138-4278-B9C2-057F95F1E621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A026478D-C3A3-4B64-BD98-AF4BE0F9CA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A026478D-C3A3-4B64-BD98-AF4BE0F9CA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A026478D-C3A3-4B64-BD98-AF4BE0F9CA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A026478D-C3A3-4B64-BD98-AF4BE0F9CA0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

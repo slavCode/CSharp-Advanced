@@ -1,0 +1,8 @@
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\bin\Debug\E04-CountSymbols.exe.config
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\bin\Debug\E04-CountSymbols.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\bin\Debug\E04-CountSymbols.pdb
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\obj\Debug\E04-CountSymbols.csproj.AssemblyReference.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\obj\Debug\E04-CountSymbols.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\obj\Debug\E04-CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\obj\Debug\E04-CountSymbols.exe
+C:\Users\Slav.GERB\Google Drive\SoftUni\CSharp-Advanced\02 SETS AND DICTIONARIES\Sets-And-Dictionaries-Exercises\E04-CountSymbols\obj\Debug\E04-CountSymbols.pdb
